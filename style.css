@@ -1,0 +1,38 @@
+body {
+	text-align: -webkit-center;
+}
+ul {
+	-webkit-padding-start: 0;
+	list-style-type: none;
+	padding: 0;
+}
+ul li {
+	display: block;
+	margin: 15px 0;
+}
+textarea {
+	height: 150px;
+}
+.frame1 {
+	height: auto;
+	}
+fieldset {
+	max-width: 700px;
+	margin: 20px 0;
+	text-align: left;
+}
+#age {
+	width: 50px;
+}
+.aboutme li {
+	margin: 0;
+}
+.freetime li, .books li{
+	margin: 2px 0;
+}
+.comment {
+	margin: 0;
+}
+.placehold {
+	width: 200px;
+}
